@@ -1,6 +1,4 @@
-### Hi there👋
-
-## My name is Gabriel Fernandes Giraud,19
+### Hi there!My name is Gabriel Fernandes Giraud,19 👋
 
 ## About me
 
