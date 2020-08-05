@@ -6,7 +6,7 @@
 
 - 🖥 I'm currently graduating in Database Technology  at [**FATEC - SÃO JOSÉ DOS CAMPOS**](https://fatecsjc-prd.azurewebsites.net/) university, Brazil
 
-- 🔭 I’m currently working on <a href="https://github.com/giraudgabriel/GIRAUD-GTA-SERVER">Server GTA</a> 
+- 🔭 I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a> 
 
 - 🌱 I’m currently learning React, C# and FiveM Development
 
