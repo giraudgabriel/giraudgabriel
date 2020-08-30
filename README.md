@@ -1,5 +1,3 @@
-# Hi there!My name is Gabriel Fernandes Giraud,19 👋
-
 ## About me
 
 - 💻 I graduated in Computer Technician from [**Colégio Técnico Opção**](http://site.colegiotecnicoopcao.com.br/) school, Brazil
