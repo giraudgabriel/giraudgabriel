@@ -9,12 +9,12 @@
 
 <h3> ⚙️  GitHub Analytics </h3>
   
-<a href="https://github.com/giraudgabriel">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giraudgabriel&theme=react&show_icons=true" style"max-width: 100%;" /> -->
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" />  -->
+<!-- <a href="https://github.com/giraudgabriel">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giraudgabriel&theme=react&show_icons=true" style"max-width: 100%;" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" />  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react" style"max-width: 100%;" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" />
-</a>
+</a> -->
 
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giraudgabriel)](https://github.com/giraudgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggiraud/)](https://www.linkedin.com/in/ggiraud/)
