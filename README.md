@@ -6,9 +6,6 @@
 
 - 🔭 I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggiraud/)](https://www.linkedin.com/in/ggiraud/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgiraud71@gmail.com)](mailto:gabrielgiraud71@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gibaraud/)](https://www.instagram.com/gibaraud/)
 
 <h3> ⚙️  GitHub Analytics </h3>
   
@@ -19,3 +16,6 @@
 </a>
 
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giraudgabriel)](https://github.com/giraudgabriel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggiraud/)](https://www.linkedin.com/in/ggiraud/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielgiraud71@gmail.com)](mailto:gabrielgiraud71@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/gibaraud/)](https://www.instagram.com/gibaraud/)
