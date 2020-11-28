@@ -20,8 +20,8 @@
 <h3> ⚙️  GitHub Analytics </h3>
   
 <a href="https://github.com/giraudgabriel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giraudgabriel&theme=react&show_icons=true" style"max-width: 80%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giraudgabriel&theme=react&show_icons=true" style"max-width: 50%;" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react&layout=compact" style"max-width: 80%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react&layout=compact" style"max-width: 50%;" />
 </a>
 
