@@ -2,7 +2,7 @@
 
 - 💻 I graduated in Computer Technician from [**Colégio Técnico Opção**](http://site.colegiotecnicoopcao.com.br/) school, Brazil
 
-- 🖥 I'm currently graduating in Database Technology  at [**FATEC - SÃO JOSÉ DOS CAMPOS**](https://fatecsjc-prd.azurewebsites.net/) college, Brazil
+- 🖥 I graduated in Database Technology  at [**FATEC - SÃO JOSÉ DOS CAMPOS**](https://fatecsjc-prd.azurewebsites.net/) college, Brazil
 
 - 🔭 I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a> 
 
