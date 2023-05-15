@@ -12,8 +12,6 @@
  <a href="https://github.com/giraudgabriel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giraudgabriel&theme=react&show_icons=true" style"max-width: 100%;" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=giraudgabriel&theme=react&layout=compact" style"max-width: 100%;" />
 </a> -->
 
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giraudgabriel)](https://github.com/giraudgabriel)
