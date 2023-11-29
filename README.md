@@ -4,7 +4,7 @@
 
 - 🖥 I graduated in Database Technology  at [**FATEC - SÃO JOSÉ DOS CAMPOS**](https://fatecsjc-prd.azurewebsites.net/) college, Brazil
 
-- 🔭 I’m currently working on <a href="https://cidadealta.gg">Cidade Alta</a> 
+- 🔭 I’m currently working on <a href="https://www.funcao.com.br">Função Sistemas</a> 
 
 - 📫 How to reach me: [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giraudgabriel)](https://github.com/giraudgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ggiraud/)](https://www.linkedin.com/in/ggiraud/)
